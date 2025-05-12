@@ -1,5 +1,3 @@
-#  Curso de programación full stack 
-
 # About the project
 
 ## What is this project about?
